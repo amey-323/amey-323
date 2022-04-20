@@ -13,9 +13,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working on ML.
 - 🌱 I’m currently learning more about BlockChain.
-- 💬 Ask me about MERN Stack or any tech-related stuff.
 - 😄 Pronouns: He/His
 
 [![GitHub amey-323](https://img.shields.io/github/followers/amey-323?label=follow&style=social)](https://github.com/amey-323)
@@ -38,12 +37,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amey-323&show_icons=true&theme=light&line_height=27" alt="Amey's github stats"/>
 </a>
 <br/>
-<a href="https://github.com/amey-323/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amey-323&repo=FlutterExampleApps&theme=light" />
-</a>
-<a href="https://github.com/amey-323/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amey-323&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
 
