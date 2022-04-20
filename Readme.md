@@ -33,12 +33,13 @@
 <a href="https://github.com/amey-323">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-323&theme=light&hide_langs_below=1" />
 </a>
+<br/>
 <a href="https://github.com/amey-323">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amey-323&show_icons=true&theme=light&line_height=27" alt="Amey's github stats"/>
 </a>
+<br/>
 <a href="https://github.com/amey-323/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amey-323&repo=FlutterExampleApps&theme=light" />
-
 </a>
 <a href="https://github.com/amey-323/VelocityX">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amey-323&repo=VelocityX&theme=light" />
