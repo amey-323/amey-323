@@ -13,7 +13,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on ML.
+- 🔭 I’m currently developing some software.
 - 🌱 I’m currently learning more about BlockChain.
 - 😄 Pronouns: He/His
 
