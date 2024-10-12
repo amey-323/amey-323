@@ -1,4 +1,4 @@
-## Hello, I'm [Amey Gangan!] 👋
+## Hello, I'm [Amey!] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amey-323&label=Views&color=blue&style=plastic" alt="amey-323" /> </p>
 
